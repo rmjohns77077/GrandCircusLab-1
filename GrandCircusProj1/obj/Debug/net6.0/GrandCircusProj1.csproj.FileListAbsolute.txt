@@ -1,0 +1,15 @@
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\obj\Debug\net6.0\GrandCircusProj1.csproj.AssemblyReference.cache
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\obj\Debug\net6.0\GrandCircusProj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\obj\Debug\net6.0\GrandCircusProj1.AssemblyInfoInputs.cache
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\obj\Debug\net6.0\GrandCircusProj1.AssemblyInfo.cs
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\obj\Debug\net6.0\GrandCircusProj1.csproj.CoreCompileInputs.cache
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\bin\Debug\net6.0\GrandCircusProj1.exe
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\bin\Debug\net6.0\GrandCircusProj1.deps.json
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\bin\Debug\net6.0\GrandCircusProj1.runtimeconfig.json
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\bin\Debug\net6.0\GrandCircusProj1.dll
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\bin\Debug\net6.0\ref\GrandCircusProj1.dll
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\bin\Debug\net6.0\GrandCircusProj1.pdb
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\obj\Debug\net6.0\GrandCircusProj1.dll
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\obj\Debug\net6.0\ref\GrandCircusProj1.dll
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\obj\Debug\net6.0\GrandCircusProj1.pdb
+C:\Users\Ryanm\source\repos\GrandCircusProj1\GrandCircusProj1\obj\Debug\net6.0\GrandCircusProj1.genruntimeconfig.cache
